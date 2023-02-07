@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FoxbitApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
